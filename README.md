@@ -1,5 +1,7 @@
 # express-example
-服务端渲染之 Express 
+- 服务端渲染之 Express 
+
+## How to use：
 
 ```
 node server.js
